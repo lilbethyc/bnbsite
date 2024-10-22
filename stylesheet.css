@@ -10,7 +10,8 @@ body {
     .middle {
         width: 45%;
         margin: auto;
-        background: darkolivegreen;
+        background-color: darkolivegreen;
+        background-image: url("images/sidedecal.png");
     }
         section {
             width: 100%
