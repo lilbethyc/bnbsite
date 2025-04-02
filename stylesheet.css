@@ -1,5 +1,5 @@
 body {
-    background-color: #244212;
+    background-color: palmleaf;
     background-image: url("images/sidedecal.png");
 }
 body {
@@ -10,7 +10,7 @@ body {
     .middle {
         width: 45%;
         margin: auto;
-        background-color: #244212;
+        background-color: palmleaf;
         background-image: url("images/sidedecal.png");
     }
         section {
